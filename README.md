@@ -1,2 +1,1 @@
-# rsschool-cv
-Practice 2020Q1
+https://tsarmari/rsschool-cv/cv
