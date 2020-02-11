@@ -28,3 +28,7 @@ I'm working on creating designs to websites and responsive versions to different
 ##### YampiCo
 ###### Ui/Ux designer
 This place of work is a startup. My team and I are developing a design for an application related to the field of beauty.
+### Education
+ Belarusian National Technical University Bachelor, Industrial Design (2016 - 2020)
+### English
+My english level - B1.
